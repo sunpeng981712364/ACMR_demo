@@ -8,4 +8,4 @@ To run the demo:
 	# NUSWIDE-10K dataset
     python train_adv_crossmodal_simple_nuswide.py
 
-We have prepared the processed data in the "./data" folder. If you have any question, please contact Bokun Wang at csbkwang@gmail.com. 
+We have prepared the data in the "./data" folder. If you have any question, please contact Bokun Wang at csbkwang@gmail.com. 
