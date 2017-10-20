@@ -3,10 +3,8 @@
 To run the demo: 
 
     # Wikipedia dataset
-    python train_adv_crossmodal_simple_wiki.py
-
-	# NUSWIDE-10K dataset
-    python train_adv_crossmodal_simple_nuswide.py
+    python train_adv_crossmodal_simple_wiki.py # with contrastive loss
+    python train_adv_crossmodal_triplet_wiki.py # with triplet loss
 
 We have prepared the data in the "./data" folder. If you have any question, please contact Bokun Wang at csbkwang@gmail.com. 
 
